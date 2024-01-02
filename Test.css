@@ -1,0 +1,39 @@
+button{
+    background-color: rgba(255, 168, 168, 0.826);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+#youtubebtn{
+    background-color: rgba(0, 183, 255, 0.826);;
+    padding: 14px 20px;
+    margin: 8px 0px;
+    border: none;
+    cursor: pointer;
+    width: fit-content;
+    transition: 1s;
+    box-shadow: 0px 0px 10px 0px rgb(0, 0, 0);
+}
+
+#youtubebtn:hover{
+    background-color: rgba(255, 0, 0, 0.826);
+    color: white;
+}
+
+#a1{
+    text-decoration: none;
+    color: white;
+}
+
+img{
+    width: 20%;
+    height: 20%;
+}
+
+.img2{
+    width: 50%;
+    height: 50%;
+}
